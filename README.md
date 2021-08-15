@@ -1,5 +1,6 @@
 # Python_API_Challenge
 
+
 In this challenge, Python script is created to visualize the weather of 500+ cities across the world of varying distance from the equator usign random latitude and longitude,  utilizing a simple Python library and the Open Weather Map API. 
 
 The challenge began by creating a series of scatter plots (saved in the output_data folder) to showcase the following relationships:
@@ -8,6 +9,9 @@ Temperature (F) vs. Latitude
 Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
+
+(The scatter plots and gmap with hotel locations are saved in the output folder.)
+(Brief Analysis of the scatter plots are also under each plots)
 
 The scatter plot of temperature versus latitude shows that the more favourable temperature range 70F-90F are generally 
 within the latitude range of -10 to +30. This shows that more suitable range of temperature for human activities are 
